@@ -5,6 +5,7 @@
       <p>Email: info@example.com</p>
       <p>Phone: (123) 456-7890</p>
       <p>Hello world!</p>
+      <p>Hello!</p>
     </div>
   </template>
   
