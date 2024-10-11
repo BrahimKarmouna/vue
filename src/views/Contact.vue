@@ -4,6 +4,7 @@
       <p>If you have any questions, feel free to reach out!</p>
       <p>Email: info@example.com</p>
       <p>Phone: (123) 456-7890</p>
+      <p>Hello world!</p>
     </div>
   </template>
   
